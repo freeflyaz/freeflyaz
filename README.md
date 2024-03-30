@@ -2,7 +2,7 @@
 
 ### Embracing the latest in technology with a seasoned perspective.
 
-I am an enthusiastic developer, motivated by a desire for learning and an ambition for self-improvement. Whether I'm engaging with a new programming language or optimizing current code, I delight in the path to technological mastery.
+I am an enthusiastic Full-Stack Development, motivated by a desire for learning and an ambition for self-improvement. Whether I'm engaging with a new programming language or optimizing current code, I delight in the path to technological mastery.
 
 🌟 I'm honing my skills and embracing new technologies to stay at the forefront of the industry.
 
