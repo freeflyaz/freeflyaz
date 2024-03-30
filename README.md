@@ -1,5 +1,5 @@
-Hello, I'm Gabe 👋
-Embracing the latest in technology with a seasoned perspective.
+#Hello, I'm Gabe 👋
+###Embracing the latest in technology with a seasoned perspective.
 I'm currently engaged in a journey of growth and learning, diving into the modern software development landscape. My background has equipped me with a unique perspective that I'm now expanding through the Codeworks Software Engineering Immersive Course.
 
 🌟 I'm honing my skills and embracing new technologies to stay at the forefront of the industry.
